@@ -1,0 +1,11 @@
+D:\Projects\Tnix\TnixAPI\bin\Debug\netcoreapp2.0\TnixAPI.deps.json
+D:\Projects\Tnix\TnixAPI\bin\Debug\netcoreapp2.0\TnixAPI.runtimeconfig.json
+D:\Projects\Tnix\TnixAPI\bin\Debug\netcoreapp2.0\TnixAPI.runtimeconfig.dev.json
+D:\Projects\Tnix\TnixAPI\bin\Debug\netcoreapp2.0\TnixAPI.dll
+D:\Projects\Tnix\TnixAPI\bin\Debug\netcoreapp2.0\TnixAPI.pdb
+D:\Projects\Tnix\TnixAPI\obj\Debug\netcoreapp2.0\TnixAPI.csprojResolveAssemblyReference.cache
+D:\Projects\Tnix\TnixAPI\obj\Debug\netcoreapp2.0\TnixAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Tnix\TnixAPI\obj\Debug\netcoreapp2.0\TnixAPI.AssemblyInfoInputs.cache
+D:\Projects\Tnix\TnixAPI\obj\Debug\netcoreapp2.0\TnixAPI.AssemblyInfo.cs
+D:\Projects\Tnix\TnixAPI\obj\Debug\netcoreapp2.0\TnixAPI.dll
+D:\Projects\Tnix\TnixAPI\obj\Debug\netcoreapp2.0\TnixAPI.pdb
