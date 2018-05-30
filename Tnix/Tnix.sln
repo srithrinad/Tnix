@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tnix.DataAccess", "Tnix.Dat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tnix.API", "Tnix.API\Tnix.API.csproj", "{0B1098C0-72C9-48F6-B628-DBE61E2169D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tnix.Core", "Tnix.Core\Tnix.Core.csproj", "{4926E632-D164-4CBB-8C06-97C51FF68FBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{0B1098C0-72C9-48F6-B628-DBE61E2169D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B1098C0-72C9-48F6-B628-DBE61E2169D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B1098C0-72C9-48F6-B628-DBE61E2169D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4926E632-D164-4CBB-8C06-97C51FF68FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4926E632-D164-4CBB-8C06-97C51FF68FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4926E632-D164-4CBB-8C06-97C51FF68FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4926E632-D164-4CBB-8C06-97C51FF68FBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

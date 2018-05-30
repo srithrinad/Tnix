@@ -1,7 +1,6 @@
 D:\GIT\Tnix\Tnix\Tnix.Services\bin\Debug\netcoreapp2.0\Tnix.Services.deps.json
 D:\GIT\Tnix\Tnix\Tnix.Services\bin\Debug\netcoreapp2.0\Tnix.Services.dll
 D:\GIT\Tnix\Tnix\Tnix.Services\bin\Debug\netcoreapp2.0\Tnix.Services.pdb
-D:\GIT\Tnix\Tnix\Tnix.Services\obj\Debug\netcoreapp2.0\Tnix.Services.csprojResolveAssemblyReference.cache
 D:\GIT\Tnix\Tnix\Tnix.Services\obj\Debug\netcoreapp2.0\Tnix.Services.csproj.CoreCompileInputs.cache
 D:\GIT\Tnix\Tnix\Tnix.Services\obj\Debug\netcoreapp2.0\Tnix.Services.AssemblyInfoInputs.cache
 D:\GIT\Tnix\Tnix\Tnix.Services\obj\Debug\netcoreapp2.0\Tnix.Services.AssemblyInfo.cs

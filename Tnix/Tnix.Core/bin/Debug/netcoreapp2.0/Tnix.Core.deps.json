@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "Tnix.DataAccess/1.0.0": {
-        "dependencies": {
-          "Tnix.Core": "1.0.0"
-        },
-        "runtime": {
-          "Tnix.DataAccess.dll": {}
-        }
-      },
       "Tnix.Core/1.0.0": {
         "runtime": {
           "Tnix.Core.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "Tnix.DataAccess/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Tnix.Core/1.0.0": {
       "type": "project",
       "serviceable": false,

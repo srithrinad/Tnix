@@ -196,16 +196,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "Tnix.Core/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Tnix.Core.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Tnix.Core.dll": {}
-        }
       }
     }
   },
@@ -666,17 +656,11 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "Tnix.Core/1.0.0": {
-      "type": "project",
-      "path": "../Tnix.Core/Tnix.Core.csproj",
-      "msbuildProject": "../Tnix.Core/Tnix.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "Microsoft.NETCore.App >= 2.0.0",
-      "Tnix.Core >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -689,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GIT\\Tnix\\Tnix\\Tnix.DataAccess\\Tnix.DataAccess.csproj",
-      "projectName": "Tnix.DataAccess",
-      "projectPath": "D:\\GIT\\Tnix\\Tnix\\Tnix.DataAccess\\Tnix.DataAccess.csproj",
+      "projectUniqueName": "D:\\GIT\\Tnix\\Tnix\\Tnix.Core\\Tnix.Core.csproj",
+      "projectName": "Tnix.Core",
+      "projectPath": "D:\\GIT\\Tnix\\Tnix\\Tnix.Core\\Tnix.Core.csproj",
       "packagesPath": "C:\\Users\\thrinadha.rao\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\Tnix\\Tnix\\Tnix.DataAccess\\obj\\",
+      "outputPath": "D:\\GIT\\Tnix\\Tnix\\Tnix.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -711,11 +695,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "D:\\GIT\\Tnix\\Tnix\\Tnix.Core\\Tnix.Core.csproj": {
-              "projectPath": "D:\\GIT\\Tnix\\Tnix\\Tnix.Core\\Tnix.Core.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
