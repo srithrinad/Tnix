@@ -1,0 +1,9 @@
+D:\GIT\Tnix\Tnix\Tnix.DataAccess\bin\Debug\netcoreapp2.0\Tnix.DataAccess.deps.json
+D:\GIT\Tnix\Tnix\Tnix.DataAccess\bin\Debug\netcoreapp2.0\Tnix.DataAccess.dll
+D:\GIT\Tnix\Tnix\Tnix.DataAccess\bin\Debug\netcoreapp2.0\Tnix.DataAccess.pdb
+D:\GIT\Tnix\Tnix\Tnix.DataAccess\obj\Debug\netcoreapp2.0\Tnix.DataAccess.csprojResolveAssemblyReference.cache
+D:\GIT\Tnix\Tnix\Tnix.DataAccess\obj\Debug\netcoreapp2.0\Tnix.DataAccess.csproj.CoreCompileInputs.cache
+D:\GIT\Tnix\Tnix\Tnix.DataAccess\obj\Debug\netcoreapp2.0\Tnix.DataAccess.AssemblyInfoInputs.cache
+D:\GIT\Tnix\Tnix\Tnix.DataAccess\obj\Debug\netcoreapp2.0\Tnix.DataAccess.AssemblyInfo.cs
+D:\GIT\Tnix\Tnix\Tnix.DataAccess\obj\Debug\netcoreapp2.0\Tnix.DataAccess.dll
+D:\GIT\Tnix\Tnix\Tnix.DataAccess\obj\Debug\netcoreapp2.0\Tnix.DataAccess.pdb
