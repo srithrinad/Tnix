@@ -16,4 +16,9 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tnix.DataAccess\Tnix.DataAccess.csproj" />
+    <ProjectReference Include="..\Tnix.Services\Tnix.Services.csproj" />
+  </ItemGroup>
+
 </Project>

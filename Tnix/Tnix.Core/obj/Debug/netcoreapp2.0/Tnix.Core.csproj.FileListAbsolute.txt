@@ -6,3 +6,4 @@ D:\GIT\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.AssemblyInfoInputs.
 D:\GIT\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.AssemblyInfo.cs
 D:\GIT\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.dll
 D:\GIT\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.pdb
+D:\GIT\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.csprojResolveAssemblyReference.cache

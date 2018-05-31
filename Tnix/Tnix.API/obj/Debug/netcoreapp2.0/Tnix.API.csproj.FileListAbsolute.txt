@@ -9,3 +9,9 @@ D:\GIT\Tnix\Tnix\Tnix.API\obj\Debug\netcoreapp2.0\Tnix.API.AssemblyInfo.cs
 D:\GIT\Tnix\Tnix\Tnix.API\obj\Debug\netcoreapp2.0\Tnix.API.dll
 D:\GIT\Tnix\Tnix\Tnix.API\obj\Debug\netcoreapp2.0\Tnix.API.pdb
 D:\GIT\Tnix\Tnix\Tnix.API\obj\Debug\netcoreapp2.0\Tnix.API.csprojResolveAssemblyReference.cache
+D:\GIT\Tnix\Tnix\Tnix.API\bin\Debug\netcoreapp2.0\Tnix.Core.dll
+D:\GIT\Tnix\Tnix\Tnix.API\bin\Debug\netcoreapp2.0\Tnix.DataAccess.dll
+D:\GIT\Tnix\Tnix\Tnix.API\bin\Debug\netcoreapp2.0\Tnix.Services.dll
+D:\GIT\Tnix\Tnix\Tnix.API\bin\Debug\netcoreapp2.0\Tnix.DataAccess.pdb
+D:\GIT\Tnix\Tnix\Tnix.API\bin\Debug\netcoreapp2.0\Tnix.Services.pdb
+D:\GIT\Tnix\Tnix\Tnix.API\bin\Debug\netcoreapp2.0\Tnix.Core.pdb
