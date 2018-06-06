@@ -7,3 +7,12 @@ D:\GIT\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.AssemblyInfo.cs
 D:\GIT\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.dll
 D:\GIT\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.pdb
 D:\GIT\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.csprojResolveAssemblyReference.cache
+D:\GitHub\Tnix\Tnix\Tnix.Core\bin\Debug\netcoreapp2.0\Tnix.Core.deps.json
+D:\GitHub\Tnix\Tnix\Tnix.Core\bin\Debug\netcoreapp2.0\Tnix.Core.dll
+D:\GitHub\Tnix\Tnix\Tnix.Core\bin\Debug\netcoreapp2.0\Tnix.Core.pdb
+D:\GitHub\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.csproj.CoreCompileInputs.cache
+D:\GitHub\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.AssemblyInfoInputs.cache
+D:\GitHub\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.AssemblyInfo.cs
+D:\GitHub\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.dll
+D:\GitHub\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.pdb
+D:\GitHub\Tnix\Tnix\Tnix.Core\obj\Debug\netcoreapp2.0\Tnix.Core.csprojResolveAssemblyReference.cache

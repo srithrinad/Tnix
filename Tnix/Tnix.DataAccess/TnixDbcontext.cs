@@ -7,6 +7,7 @@ using Tnix.Core.DataAccess;
 using System.Linq;
 using System.Reflection;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Tnix.DataAccess
 {
