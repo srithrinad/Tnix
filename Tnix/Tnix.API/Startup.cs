@@ -54,6 +54,7 @@ namespace Tnix.API
                 app.UseDeveloperExceptionPage();
             }
 
+            
             app.UseMvc();
         }
 

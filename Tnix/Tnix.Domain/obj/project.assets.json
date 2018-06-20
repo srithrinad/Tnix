@@ -664,7 +664,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\my pc\\.nuget\\packages\\": {},
+    "C:\\Users\\thrinadha.rao\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,17 +673,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Tnix\\Tnix\\Tnix.Domain\\Tnix.Domain.csproj",
+      "projectUniqueName": "D:\\GIT\\Tnix\\Tnix\\Tnix.Domain\\Tnix.Domain.csproj",
       "projectName": "Tnix.Domain",
-      "projectPath": "D:\\GitHub\\Tnix\\Tnix\\Tnix.Domain\\Tnix.Domain.csproj",
-      "packagesPath": "C:\\Users\\my pc\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Tnix\\Tnix\\Tnix.Domain\\obj\\",
+      "projectPath": "D:\\GIT\\Tnix\\Tnix\\Tnix.Domain\\Tnix.Domain.csproj",
+      "packagesPath": "C:\\Users\\thrinadha.rao\\.nuget\\packages\\",
+      "outputPath": "D:\\GIT\\Tnix\\Tnix\\Tnix.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\my pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\thrinadha.rao\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -691,7 +691,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

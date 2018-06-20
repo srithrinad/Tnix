@@ -14,7 +14,24 @@ namespace Tnix.API
     {
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
+
+            var apiHost = new WebHostBuilder()
+                .UseKestrel()
+                .UseContentRoot(Directory.GetCurrentDirectory())
+                .UseIISIntegration()
+                .UseStartup<Startup>()
+                .UseApplicationInsights()
+                .Build();
+
+
+
+
+            apiHost.Run();
+
+
+
+         //   BuildWebHost(args).Run();
+
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
