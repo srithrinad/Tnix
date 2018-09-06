@@ -15,6 +15,10 @@ namespace Tnix.API
         public static void Main(string[] args)
         {
 
+            var clientDirectory = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory()).ToString(), "Tnix\\");
+
+            new ClientServer().Start(clientDirectory);
+
             var apiHost = new WebHostBuilder()
                 .UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
@@ -29,8 +33,8 @@ namespace Tnix.API
             apiHost.Run();
 
 
-
-         //   BuildWebHost(args).Run();
+     
+            //   BuildWebHost(args).Run();
 
         }
 

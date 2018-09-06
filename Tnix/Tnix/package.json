@@ -5,6 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "start http://localhost:4201 & ng serve -port 4201",
+    "start-api": "cd ../Tnix.ApI  && dotnet restore && dotnet run -f netcoreapp2.0",
     "build": "ng build --prod",
     "test": "ng test",
     "lint": "ng lint",
